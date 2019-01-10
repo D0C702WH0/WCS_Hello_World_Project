@@ -1,7 +1,7 @@
 # Hello World
 
 ## Screen
-![image](https://drive.google.com/file/d/17TT4VjJvCyxIFNiq7zlFkQWgwVZKvR6N/view?usp=sharing)
+![image](https://drive.google.com/open?id=17TT4VjJvCyxIFNiq7zlFkQWgwVZKvR6N)
 
 ## Link
 [HelloWorld.com](https://wcshelloworld.herokuapp.com/)
