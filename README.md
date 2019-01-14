@@ -5,6 +5,15 @@
 
 Interactive traveler guide
 
+Clone or download this reposetory, then in Node, run the following commands:
+
+```npm install
+```
+ 
+``npm start
+```
+```
+
 |         | Stack           | status  |
 | ------- |:-------------:| -------:|
 | APIs    | RestCountries / Youtube / Google / OpenTdb | Done   |
