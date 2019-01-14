@@ -8,7 +8,7 @@ Interactive traveler guide
 |         | Stack           | status  |
 | ------- |:-------------:| -------:|
 | APIs    | RestCountries / Youtube / Google / OpenTdb | Done   |
-| Front   | React / Material UI | Done   |
+| Front   | React / ReactSimpleMap / Material UI | Done   |
 
 ## Demo
 <button>[HelloWorld.com](https://wcshelloworld.herokuapp.com/)</button>
