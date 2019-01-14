@@ -7,11 +7,13 @@ Interactive traveler guide
 
 Clone or download this reposetory, then in Node, run the following commands:
 
-```npm install
-```
- 
-``npm start
-```
+`npm install`
+
+then
+
+`npm start`
+
+
 
 |         | Stack           | status  |
 | ------- |:-------------:| -------:|
