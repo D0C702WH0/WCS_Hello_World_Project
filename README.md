@@ -12,7 +12,6 @@ Clone or download this reposetory, then in Node, run the following commands:
  
 ``npm start
 ```
-```
 
 |         | Stack           | status  |
 | ------- |:-------------:| -------:|
