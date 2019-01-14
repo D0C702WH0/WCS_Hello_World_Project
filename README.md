@@ -9,7 +9,7 @@
 
 
 
-Clone or download this reposetory, then in Node, run the following commands:
+Clone or download this repository, then in Node, run the following commands:
 
 `npm install`
 
