@@ -1,9 +1,13 @@
 # Hello World
+
 (School Project)
+
+
+*Interactive traveler guide*
 
 ![image](https://drive.google.com/uc?export=view&id=17TT4VjJvCyxIFNiq7zlFkQWgwVZKvR6N)
 
-Interactive traveler guide
+
 
 Clone or download this reposetory, then in Node, run the following commands:
 
